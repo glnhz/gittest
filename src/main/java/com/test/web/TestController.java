@@ -5,5 +5,6 @@ public class TestController {
 	public static void main(String[] args) {
 		System.out.println("controller");
 		System.out.println("xxxxxxx");
+		System.out.println("dev");
 	}
 }
